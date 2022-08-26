@@ -9,7 +9,7 @@
 
 }
 
-@media screen and (max-width: 360px) {
+@media only screen and (max-width: 360px) {
 
     .ingredient-selection {
         /* border: 1px solid black; */
