@@ -37,7 +37,7 @@ function App() {
 
       <Burger />
 
-      <footer>
+      <footer className='footer'>
         <CopyRight />
       </footer>
 
