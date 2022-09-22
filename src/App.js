@@ -32,7 +32,7 @@ function App() {
 
       <header>
         <h1>Make your own burger</h1>
-        <p>The original burger</p>
+        <p>Eat Code Repeat</p>
       </header>
 
       <Burger />
